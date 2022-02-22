@@ -18,7 +18,7 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "AghnyChan-Mdོ"
+global.botname = "AghnyChan-MD"
 global.ownername= "αzєии 〆"
 global.myweb ="https://api-maul.herokuapp.com/"
 global.youtube = "https://youtube.com/channel/UC6-SaCfnLhy_gHdBodNFP1A"
@@ -29,7 +29,7 @@ global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/a3e8b0f2cc517166b6791.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["62895416489526","62895416489526","085643472795"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Aghny-Mdོ' //sticker wm
+global.packname = '© Aghny-MD' //sticker wm
 global.author = 'Di Buat Oleh Maul By Azen' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
