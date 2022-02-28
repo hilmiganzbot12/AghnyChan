@@ -18,19 +18,19 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Raja BotZ"
-global.ownername= "Raja Store"
+global.botname = "Black BotZ"
+global.ownername= "Black Store"
 global.myweb ="https://api-maul.herokuapp.com/"
-global.youtube = "https://youtube.com/channel/UC6-SaCfnLhy_gHdBodNFP1A"
-global.github = "https://github.com/AzenMKS"
+global.youtube = "https://youtube.com/channel/UCWN89V_QtNnav2UFF8epaug"
+global.github = "https://github.com/hilmiganzbot12"
 global.ownernomer = "6282143440025"
 global.ownernomerr = "+6282143440025"
-global.thumbnail = "./image/lol.jpg"
-global.donasi = "./image/donasi.jpg"
+global.thumbnail = "./image/Bb.jpg"
+global.donasi = "./image/Donate.jpg"
 global.background_welcome="https://telegra.ph/file/a3e8b0f2cc517166b6791.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6282143440025","6282143440025","62895416489526"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Raja BotZ' //sticker wm
-global.author = 'Di Buat Oleh Maul By Raja Store' //sticker wm
+global.packname = '© Black BotZ' //sticker wm
+global.author = 'Di Buat Black Store' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -40,7 +40,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: 'Nih Kak Subscribe : Maul Botz',
+    sukses: 'Nih Kak Subscribe: Black BotZ ',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
