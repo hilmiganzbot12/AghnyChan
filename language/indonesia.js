@@ -6,7 +6,7 @@ exports.wait = () => {
 }
 
 exports.ok = () => {
-    return `Nih Subscribe : https://youtu.be/hS60tE50KOo `
+    return `Nih Subscribe : https://youtube.com/channel/UCWN89V_QtNnav2UFF8epaug `
 }
 
 exports.err = () => {
@@ -89,10 +89,10 @@ exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
 saya Raja-BotZ, bot ini adalah Beta Multi-Device Whatsapp. 
 
-➳» Nama Bot : Raja BotZ
-➳» Creator Bot : Maul Botz
-➳» Creator Ke2 : Raja Store
-➳» Nama Owner : Raja Store
+➳» Nama Bot : Black BotZ
+➳» Creator Bot : Black Store
+➳» Author : Black Store 
+➳» Nama Owner : Black Store
 ➳» Nomer Owner : 082143440025`
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
@@ -102,7 +102,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ┃⎆ Nama : ${pushname}
 ┃⎆ Bio :
 ┃⎆ Status : Gratis
-┃⎆ List-Menu Raja-BotZ
+┃⎆ List-Menu Black-BotZ
 ┗━━━━━━━━━━❒
 
 ┏━━❒ *「 Time Server 」*
@@ -110,11 +110,11 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ┗━━━━━━━━━━❒
 
 ┏━━❒ *「 Info Bot 」*
-┃⎆ Nama Bot : Raja-BotZ
-┃⎆ Nama Owner : Raja Store
+┃⎆ Nama Bot : Black-BotZ
+┃⎆ Nama Owner : Black Store
 ┃⎆ Nomer Owner : 082143440025
 ┃⎆ YouTube :
-┃⎆ https://youtu.be/hS60tE50KOo
+┃⎆ https://youtube.com/channel/UCWN89V_QtNnav2UFF8epaug
 ┗━━━━━━━━━━❒
 
 ┏━━❒ *「 Bot Info 」*
