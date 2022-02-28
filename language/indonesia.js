@@ -87,7 +87,7 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Raja-BotZ, bot ini adalah Beta Multi-Device Whatsapp. 
+saya Black-BotZ, bot ini adalah Beta Multi-Device Whatsapp. 
 
 ➳» Nama Bot : Black BotZ
 ➳» Creator Bot : Black Store
