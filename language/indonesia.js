@@ -88,12 +88,13 @@ exports.notNum = (q) => {
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
 saya Black-BotZ, bot ini adalah Beta Multi-Device Whatsapp. 
+Ingin jadibot? Hubungi wa.me/6282143349069 Harga? 15k Bisa Req SC + Di Run in di Heroku 
 
-➳» Nama Bot : Black BotZ
+➳» Nama Bot : NIGHT BOTZ
 ➳» Creator Bot : Black Store
-➳» Author : Black Store 
-➳» Nama Owner : Black Store
-➳» Nomer Owner : 082143440025`
+➳» Author : Black BotZ 
+➳» Nama Owner : NIGHT STORE
+➳» Nomer Owner : 08387696973`
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
@@ -101,8 +102,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ┏━━❒ *「 Info User 」*
 ┃⎆ Nama : ${pushname}
 ┃⎆ Bio :
-┃⎆ Status : Pengguna Black BotZ Official
-┃⎆ List-Menu Black-BotZ
+┃⎆ Status : Pengguna NIGHT BOTZ
+┃⎆ List-Menu NIGHT BOTZ
 ┗━━━━━━━━━━❒
 
 ┏━━❒ *「 Time Server 」*
@@ -110,9 +111,9 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ┗━━━━━━━━━━❒
 
 ┏━━❒ *「 Info Bot 」*
-┃⎆ Nama Bot : Black-BotZ
-┃⎆ Nama Owner : Black Store
-┃⎆ Nomer Owner : 082143440025
+┃⎆ Nama Bot : NIGHT BOTZ
+┃⎆ Nama Owner : NIGHT STORE
+┃⎆ Nomer Owner : 628387696973
 ┃⎆ YouTube :
 ┃⎆ https://youtube.com/channel/UCWN89V_QtNnav2UFF8epaug
 ┗━━━━━━━━━━❒
