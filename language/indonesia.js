@@ -101,7 +101,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ┏━━❒ *「 Info User 」*
 ┃⎆ Nama : ${pushname}
 ┃⎆ Bio :
-┃⎆ Status : Gratis
+┃⎆ Status : Pengguna Black BotZ Official
 ┃⎆ List-Menu Black-BotZ
 ┗━━━━━━━━━━❒
 
