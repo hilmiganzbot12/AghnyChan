@@ -31,7 +31,7 @@ global.background_welcome="https://telegra.ph/file/a3e8b0f2cc517166b6791.jpg" //
 global.owner = ["628387696973","6282143440025","6282143349069"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© NIGHT STORE' //sticker wm
 global.author = 'Di Buat Black BotZ' //sticker wm
-global.sessionName = 'session-multi-device'
+global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
